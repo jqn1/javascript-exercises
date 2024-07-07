@@ -1,5 +1,5 @@
 const sumAll = function(start,end) {
-  sum = 0;
+  let sum = 0;
   if (start > end) {
     aux = start;
     start = end;
